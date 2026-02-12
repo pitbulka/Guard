@@ -1,0 +1,2 @@
+Это голосовой ассистент, разработанный на Python, который слушает голосовые команды и отвечает на них. Для запуска установите зависимости, и вызовите main.py. Проект использует Vosk для распознавания речи и API для ответов. Лицензия MIT. Пожалуйста, читайте код и наслаждайтесь!
+This is a voice assistant, developed in Python, that listens to voice commands and responds to them. To run it, install the dependencies and execute main.py. The project uses Vosk for speech recognition and an API for responses. License: MIT. Please, read the code and enjoy!
